@@ -3,8 +3,8 @@
       <li>🎓 I have a certificate in front-end development from the Steve Jobs Academy.</li>
       <li>📚 I'm currently studying Gen AI on Codedex courses.</li>
       <li>🌱 I'm on track for learning more about Web technologies, Cloud Computing and a little bit of Security.</li>
-      <li>✨ My favorite side project is <a href="https://github.com/Darkmindy/#">Portfolio</a></li>
-      <li>🔭 My newest side project is currently still in stealth mode 🤫</li>
+      <li>✨ I'm currently working on updating my <a href="#">Portfolio Website.</a></li>
+      <li>🤫 My newest side project is currently still in stealth mode...</li>
       <li>📫 How to reach me: <p align="center"> 
   <a href="https://www.linkedin.com/in/stefaniad91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
   <a href="https://www.instagram.com/stefania_d91" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
