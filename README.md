@@ -70,3 +70,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkmindy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin: 0 5px;" alt="Top Languages"/>
   </div>
 </div>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Stefania-D/30-nites-of-code)  
+  ![@Stefania-D #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Stefania-D)
