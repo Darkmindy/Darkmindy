@@ -3,7 +3,7 @@
       <li>🎓 I have a certificate in front-end development from the Steve Jobs Academy.</li>
       <li>📚 I'm currently studying Gen AI on Codedex courses.</li>
       <li>🌱 I'm on track for learning more about Web technologies, Cloud Computing and a little bit of Security.</li>
-      <li>✨ I'm currently working on updating my <a href="#">Portfolio Website.</a></li>
+      <li>✨ I'm currently working on <a href="https://github.com/Darkmindy/test-frontend/tree/main/soulfarm-react">Soulfarm-react.</a></li>
       <li>🤫 My newest side project is currently still in stealth mode...</li>
       <li>📫 How to reach me: <p align="center"> 
   <a href="https://www.linkedin.com/in/stefaniad91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
@@ -70,7 +70,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkmindy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin: 0 5px;" alt="Top Languages"/>
   </div>
 </div>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Stefania-D/30-nites-of-code)  
-  ![@Stefania-D #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Stefania-D)
