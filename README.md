@@ -3,7 +3,7 @@
       <li>🎓 I have a certificate in front-end development from the Steve Jobs Academy.</li>
       <li>📚 I'm currently studying Gen AI on Codedex courses.</li>
       <li>🌱 I'm on track for learning more about Frameworks, Web technologies, Cloud Computing and a little bit of Security.</li>
-      <li>✨ I'm currently working on a <a href="https://github.com/Darkmindy/soulfarm-react">Test Frontend</a></li>
+      <li>✨ I'm currently working on a <a href="https://github.com/Darkmindy/Visual-Discovery">newest project</a></li>
       <li>🤫 My newest side project is currently still in stealth mode...</li>
       <li>📫 How to reach me: <p align="center"> 
   <a href="https://www.linkedin.com/in/stefaniad91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
